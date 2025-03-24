@@ -1,9 +1,10 @@
-import Exam_Component from './pages/Exam_Component';
+// src/App.jsx
+import Exam_StorageLocal from './pages/Exam_StorageLocal';
 
 const App = () => {
   return (
     <>
-      <Exam_Component />
+      <Exam_StorageLocal />
     </>
   );
 };
