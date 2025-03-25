@@ -25,4 +25,4 @@ const EventWithParams_Error = () => {
   return <button onClick={handleClick(name)}>🖱️클릭!</button>;
 };
 
-export default EventWithParams_Error;
+export default EventWithParams;

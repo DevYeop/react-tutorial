@@ -1,5 +1,4 @@
-.button {
-  background-color: blue;
-  color: white;
-  padding: 10px;
+.styled-text {
+  color: green;
+  font-size: 20px;
 }

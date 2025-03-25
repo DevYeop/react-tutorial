@@ -1,6 +1,6 @@
 // Counter.js (카운터 UI 및 상태 변경)
 import { useAtom } from 'jotai';
-import { countAtom } from '../atoms/examAtom';
+import { countAtom } from '../atoms/counterAtom';
 
 export default function Counter() {
   const [count, setCount] = useAtom(countAtom);

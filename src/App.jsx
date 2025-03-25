@@ -1,10 +1,9 @@
-// src/App.jsx
-import Exam_StorageLocal from './pages/Exam_StorageLocal';
+import Exam_Styling_2 from './pages/Exam_Styling_2';
 
 const App = () => {
   return (
     <>
-      <Exam_StorageLocal />
+      <Exam_Styling_2 />
     </>
   );
 };
